@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg4608"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="development-change-chassidus-models.svg"
+   inkscape:export-filename="/home/ychakiris/Dropbox/ba-writings/presentation-training/graphics/development-change-chassidus-models.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4610">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4720">
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1;"
+         offset="0"
+         id="stop4722" />
+      <stop
+         style="stop-color:#ff8080;stop-opacity:0;"
+         offset="1"
+         id="stop4724" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4708">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4710" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop4712" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4669">
+      <stop
+         style="stop-color:#9eb9e2;stop-opacity:1;"
+         offset="0"
+         id="stop4671" />
+      <stop
+         style="stop-color:#9eb9e2;stop-opacity:0;"
+         offset="1"
+         id="stop4673" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4661">
+      <stop
+         style="stop-color:#9eb9e2;stop-opacity:1;"
+         offset="0"
+         id="stop4663" />
+      <stop
+         style="stop-color:#9eb9e2;stop-opacity:0;"
+         offset="1"
+         id="stop4665" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4661"
+       id="linearGradient4667"
+       x1="724.72595"
+       y1="935.90332"
+       x2="553.80786"
+       y2="886.47119"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4669"
+       id="linearGradient4675"
+       x1="896.48175"
+       y1="984.49768"
+       x2="595.69958"
+       y2="885.63336"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.83783344,0.83783307)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4708"
+       id="linearGradient4714"
+       x1="95.513008"
+       y1="1027.2272"
+       x2="836.15778"
+       y2="1025.5515"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.83783342,-45.243004)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4720"
+       id="linearGradient4726"
+       x1="329.26852"
+       y1="831.17413"
+       x2="570.56458"
+       y2="830.3363"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.6756668,103.89134)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1926309"
+     inkscape:cx="784.40565"
+     inkscape:cy="419.17671"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1270"
+     inkscape:window-height="1000"
+     inkscape:window-x="1323"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4613">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4902"
+       d="m 572.24022,322.14654 0,699.67856"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,4;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2,4;stroke-dashoffset:0"
+       d="m 269.36344,321.80999 0,675.21665"
+       id="path4887"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="2.0945849"
+       y="916.06635"
+       x="239.57166"
+       height="35.189007"
+       width="570.61322"
+       id="rect4716"
+       style="fill:url(#linearGradient4726);fill-opacity:1;stroke:#130a0a;stroke-width:1.72079122;stroke-miterlimit:4;stroke-opacity:0.40639271;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       ry="2.0945849"
+       y="963.57935"
+       x="45.243004"
+       height="35.189007"
+       width="770.8067"
+       id="rect4704"
+       style="fill:url(#linearGradient4714);fill-opacity:1;stroke:#130a0a;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.40639270999999999;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:url(#linearGradient4675);fill-opacity:1;stroke:#130a0a;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.40639271;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4635"
+       width="770.8067"
+       height="35.189007"
+       x="45.243004"
+       y="964.41718"
+       ry="2.0945849" />
+    <rect
+       ry="2.0945849"
+       y="869.90466"
+       x="541.38495"
+       height="35.189007"
+       width="269.63776"
+       id="rect4637"
+       style="fill:#9eb9e2;stroke:#130a0a;stroke-width:1.18289888000000021;stroke-miterlimit:4;stroke-opacity:0.40639270999999999;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:0.80365294" />
+    <rect
+       style="fill:url(#linearGradient4667);stroke:#130a0a;stroke-width:1.72079121999999995;stroke-miterlimit:4;stroke-opacity:0.40639270999999999;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1;opacity:1"
+       id="rect4639"
+       width="570.61322"
+       height="35.189007"
+       x="241.24731"
+       y="916.90417"
+       ry="2.0945849" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="87.972511"
+       y="341.69061"
+       id="text4641"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4643"
+         x="87.972511"
+         y="341.69061">עיבור</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="384.56555"
+       y="941.79565"
+       id="text4645"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4647"
+         x="384.56555"
+         y="941.79565">מורגש</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="635.91553"
+       y="898.22833"
+       id="text4649"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4651"
+         x="635.91553"
+         y="898.22833">מושכל</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 816.04975,578.20347 c 0,0 45.59978,-2.99707 64.51317,7.5405 9.0301,5.0311 15.23011,14.78231 19.27017,24.29717 1.65175,3.89009 1.39577,8.35054 1.67566,12.5675 0.79532,11.98258 3.6329,24.58057 0,36.02683 -1.75804,5.5391 -5.10453,11.19768 -10.054,14.24317 -12.98443,7.98954 -30.02048,5.86414 -45.243,6.70267 -7.53425,0.41502 -22.6215,-0.83783 -22.6215,-0.83783"
+       id="path4728"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="caaaaaac" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 812.69841,591.6088 c 0,0 29.69593,-0.38697 40.21601,8.37834 6.25549,5.21206 11.14933,14.71204 9.21616,22.6215 -1.74049,7.12109 -9.91516,11.61009 -16.75666,14.24317 -8.60509,3.31183 -27.64851,0.83783 -27.64851,0.83783"
+       id="path4730"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="caaac" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 832.80641,628.47347 -13.40533,9.21617 12.5675,8.37833"
+       id="path4738"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 842.02258,669.52731 -18.43233,7.5405 19.27017,15.081"
+       id="path4740"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="910.18427"
+       y="943.57904"
+       id="text4742"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4744"
+         x="910.18427"
+         y="943.57904">Refines and</tspan><tspan
+         sodipodi:role="line"
+         x="910.18427"
+         y="961.07904"
+         id="tspan4746">Develops the</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.702504,672.04081 c 0,0 -13.605528,-1.85745 -17.594502,-6.70267 -5.223654,-6.34492 -4.166211,-16.07865 -4.189167,-24.29717 -0.01898,-6.7951 -0.652662,-14.61785 3.351334,-20.108 6.108821,-8.37621 17.675743,-11.41073 27.648502,-14.24317 20.748939,-5.89306 42.955393,-5.7404 64.513169,-5.027 19.46084,0.64401 38.54828,5.53129 57.81051,8.37834 20.39585,3.01461 61.16184,9.21616 61.16184,9.21616"
+       id="path4748"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="caaaaaac" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 216.16102,606.6898 15.081,13.40534 -20.94583,8.37833"
+       id="path4767"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="61.999672"
+       y="898.20087"
+       id="text4769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4771"
+         x="61.999672"
+         y="898.20087">Becomes Revealed in </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="604.91571"
+       y="537.14966"
+       id="text4777"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan4779"
+         x="604.91571"
+         y="537.14966" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="253.86353"
+       y="1028.0651"
+       id="text4797"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4799"
+         x="253.86353"
+         y="1028.0651"
+         style="font-size:18px">Development of <tspan
+   style="font-size:24px;-inkscape-font-specification:Ezra SIL;font-family:Ezra SIL;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4807">חומר</tspan>  for the <tspan
+   style="-inkscape-font-specification:Ezra SIL;font-family:Ezra SIL;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4811"><tspan
+     style="font-size:24px"
+     id="tspan4813">צורה </tspan></tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4815"
+       y="852.95789"
+       x="614.1319"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:18px"
+         y="852.95789"
+         x="614.1319"
+         id="tspan4817"
+         sodipodi:role="line"><tspan
+           id="tspan4821"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"> צורת השכל </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="912.40057"
+       y="987.84912"
+       id="text4825"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4827"
+         x="912.40057"
+         y="987.84912"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"> חומר</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4833"
+       y="920.82239"
+       x="911.56268"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+         y="920.82239"
+         x="911.56268"
+         id="tspan4835"
+         sodipodi:role="line"> צורה </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 61.161839,712.25681 173.431521,0.83784"
+       id="path4841"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 606.59139,712.25681 197.72869,0"
+       id="path4845"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 793.42824,703.87848 12.56751,7.5405 -10.05401,8.37833"
+       id="path4847"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <path
+       sodipodi:nodetypes="caaac"
+       inkscape:connector-curvature="0"
+       id="path4860"
+       d="m 355.24136,914.11967 c -8.13435,-10.05187 1.49295,-28.1559 10.89184,-36.86467 11.73242,-10.87095 30.93309,-9.51694 46.91867,-10.054 19.46051,-0.65381 38.54828,5.53129 57.81051,8.37834 20.39585,3.01461 61.16184,9.21616 61.16184,9.21616"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4862"
+       d="m 517.78105,872.228 15.081,13.40534 -20.94583,8.37833"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4864"
+       y="826.20123"
+       x="295.75522"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="826.20123"
+         x="295.75522"
+         sodipodi:role="line"
+         id="tspan4879">Becomes more of a function of</tspan><tspan
+         y="841.20123"
+         x="295.75522"
+         sodipodi:role="line"
+         id="tspan4883">knowing the true worth of things</tspan><tspan
+         y="856.20123"
+         x="295.75522"
+         sodipodi:role="line"
+         id="tspan4885">as revealed by intellect</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4904"
+       y="341.69061"
+       x="382.05203"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       xml:space="preserve"><tspan
+         y="341.69061"
+         x="382.05203"
+         id="tspan4906"
+         sodipodi:role="line">יניקה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="684.50989"
+       y="341.69061"
+       id="text4908"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4910"
+         x="684.50989"
+         y="341.69061">מוחים</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.81823421;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.81823411, 5.45470231;stroke-dashoffset:0"
+       d="m 26.761053,406.41978 845.531737,0"
+       id="path4925"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="60.621502"
+       y="378.74411"
+       id="text4927"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="60.621502"
+         y="378.74411"
+         id="tspan3073">Epigenetic Selection</tspan><tspan
+         sodipodi:role="line"
+         x="60.621502"
+         y="393.74411"
+         id="tspan3414">(or Somatic Selection)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4931"
+       y="381.2576"
+       x="326.16037"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="381.2576"
+         x="326.16037"
+         id="tspan4933"
+         sodipodi:role="line">Primarily Non-Cognitively Based</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       x="644.29388"
+       y="381.2576"
+       id="text4935"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4937"
+         x="644.29388"
+         y="381.2576">Intellectual Development</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="421.65833"
+       y="-885.87122"
+       id="text4941"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.00870985,0.99996207,-0.99996207,-0.00870985,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4943"
+         x="421.65833"
+         y="-885.87122">Variation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="568.86847"
+       y="-882.88153"
+       id="text4945"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:transform-center-x="-14.243168"
+       inkscape:transform-center-y="40.117676"><tspan
+         sodipodi:role="line"
+         id="tspan4947"
+         x="568.86847"
+         y="-882.88153">Selection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="699.92285"
+       y="-901.95691"
+       id="text4949"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.02522213,0.99968187,-0.99968187,-0.02522213,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4951"
+         x="699.92285"
+         y="-901.95691">Amplification</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="18.594337"
+       y="428.1763"
+       id="text3077"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3079"
+         x="18.594337"
+         y="428.1763">Natural variation in cell</tspan><tspan
+         sodipodi:role="line"
+         x="18.594337"
+         y="445.6763"
+         id="tspan3081">populations</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3083"
+       y="476.77063"
+       x="18.594337"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3087"
+         y="476.77063"
+         x="18.594337"
+         sodipodi:role="line">Natural variation in</tspan><tspan
+         y="494.27063"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3091">relationships between cell</tspan><tspan
+         y="511.77063"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3093">populations</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3095"
+       y="558.79712"
+       x="18.594337"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="558.79712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3103">Cell proliferation, Cell migration</tspan><tspan
+         y="576.29712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3111">Cell death, Intercelluar</tspan><tspan
+         y="593.79712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3113">connections and  activities;</tspan><tspan
+         y="611.29712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3109">Differential consequences to</tspan><tspan
+         y="628.79712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3117">   cell populations due to</tspan><tspan
+         y="646.29712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3148">   internal and external</tspan><tspan
+         y="663.79712"
+         x="18.594337"
+         sodipodi:role="line"
+         id="tspan3150">   interactions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="18.594337"
+       y="720.58014"
+       id="text3119"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3125"
+         sodipodi:role="line"
+         x="18.594337"
+         y="720.58014">Emergence of new functional</tspan><tspan
+         sodipodi:role="line"
+         x="18.594337"
+         y="738.08014"
+         id="tspan3134">properties from interacting and</tspan><tspan
+         sodipodi:role="line"
+         x="18.594337"
+         y="755.58014"
+         id="tspan3138">coherent cell populations</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3152"
+       y="428.1763"
+       x="282.70102"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3156"
+         y="428.1763"
+         x="282.70102"
+         sodipodi:role="line">Varying emotions and actions due to</tspan><tspan
+         y="445.6763"
+         x="282.70102"
+         sodipodi:role="line"
+         id="tspan3160">epigenetic development and current</tspan><tspan
+         y="463.1763"
+         x="282.70102"
+         sodipodi:role="line"
+         id="tspan3178">conditions</tspan><tspan
+         y="480.6763"
+         x="282.70102"
+         sodipodi:role="line"
+         id="tspan3268" /><tspan
+         y="498.1763"
+         x="282.70102"
+         sodipodi:role="line"
+         id="tspan3270">Emotions are progressively more</tspan><tspan
+         y="515.67627"
+         x="282.70102"
+         sodipodi:role="line"
+         id="tspan3272">revealed and developed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="282.70102"
+       y="561.31067"
+       id="text3162"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3166"
+         sodipodi:role="line"
+         x="282.70102"
+         y="561.31067">Actions and emotions experience</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="578.81067"
+         id="tspan3170">differing consequences, both internal</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="596.31067"
+         id="tspan3172">and external--this further develops them</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="613.81067"
+         id="tspan3174" /><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="631.31067"
+         id="tspan3184">Hiearchy of values (internal and external)</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="648.81067"
+         id="tspan3188">provides different consequences and</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="666.31067"
+         id="tspan3194">these differences are articulated in a</tspan><tspan
+         sodipodi:role="line"
+         x="282.70102"
+         y="683.81067"
+         id="tspan3196">limited sense</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3198"
+       y="725.31067"
+       x="282.70102"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3214"
+         y="725.31067"
+         x="282.70102"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3251"
+       y="720.58014"
+       x="282.59433"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="720.58014"
+         x="282.59433"
+         sodipodi:role="line"
+         id="tspan3264" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3274"
+       y="720.58014"
+       x="282.59433"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3280"
+         y="720.58014"
+         x="282.59433"
+         sodipodi:role="line">Emergence of established emotional</tspan><tspan
+         y="738.08014"
+         x="282.59433"
+         sodipodi:role="line"
+         id="tspan3287">patterns and an articulated relationship</tspan><tspan
+         y="755.58014"
+         x="282.59433"
+         sodipodi:role="line"
+         id="tspan3289">to loci of values</tspan><tspan
+         y="773.08014"
+         x="282.59433"
+         sodipodi:role="line"
+         id="tspan3362" /><tspan
+         y="790.58014"
+         x="282.59433"
+         sodipodi:role="line"
+         id="tspan3364">Start of self regulation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="590.70105"
+       y="428.1763"
+       id="text3291"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3303"
+         sodipodi:role="line"
+         x="590.70105"
+         y="428.1763">Variation due to aquiring more</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="445.6763"
+         id="tspan3337">extensive language skills</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="463.1763"
+         id="tspan3325">and exposure to new ideas and</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="480.6763"
+         id="tspan3327">analysis</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3329"
+       y="566.17627"
+       x="590.70105"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3335"
+         y="566.17627"
+         x="590.70105"
+         sodipodi:role="line">New knowledge and its application</tspan><tspan
+         y="583.67627"
+         x="590.70105"
+         sodipodi:role="line"
+         id="tspan3344">creates new experiences and</tspan><tspan
+         y="601.17627"
+         x="590.70105"
+         sodipodi:role="line"
+         id="tspan3346">understanding</tspan><tspan
+         y="618.67627"
+         x="590.70105"
+         sodipodi:role="line"
+         id="tspan3356" /><tspan
+         y="636.17627"
+         x="590.70105"
+         sodipodi:role="line"
+         id="tspan3358">Language and cognition make</tspan><tspan
+         y="653.67627"
+         x="590.70105"
+         sodipodi:role="line"
+         id="tspan3360">remote consequences felt now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="590.70105"
+       y="719.49976"
+       id="text3348"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3354"
+         sodipodi:role="line"
+         x="590.70105"
+         y="719.49976">Deeper and mature understanding</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="736.99976"
+         id="tspan3377">of material and spiritual concepts</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="754.49976"
+         id="tspan3366" /><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="771.99976"
+         id="tspan3368">Mature self regulation and serving</tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="789.49976"
+         id="tspan3370">of HaShem with understanding </tspan><tspan
+         sodipodi:role="line"
+         x="590.70105"
+         y="806.99976"
+         id="tspan3379">and action</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3398"
+       d="m 51.417286,534.41978 814.647454,0"
+       style="fill:none;stroke:#000000;stroke-width:1.70276964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.7027695, 5.1083085;stroke-dashoffset:0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.6527822;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.65278227, 4.95834678;stroke-dashoffset:0"
+       d="m 62.731131,694.41978 795.369759,0"
+       id="path3400"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3416"
+       y="989.55219"
+       x="61.999687"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       xml:space="preserve"><tspan
+         y="989.55219"
+         x="61.999687"
+         id="tspan3418"
+         sodipodi:role="line">מוטבע</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3420"
+       y="-943.3573"
+       x="420.66754"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e52929;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       xml:space="preserve"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       inkscape:transform-center-x="-10.509843"
+       inkscape:transform-center-y="-20.945835"><tspan
+         y="-943.3573"
+         x="420.66754"
+         id="tspan3422"
+         sodipodi:role="line"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#e52929;fill-opacity:1">המתקה</tspan></text>
+    <text
+       inkscape:transform-center-y="-20.945835"
+       inkscape:transform-center-x="-10.509843"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e52929;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="558.10425"
+       y="-945.82074"
+       id="text3424"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#e52929;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan3426"
+         x="558.10425"
+         y="-945.82074">הבדלה</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3428"
+       y="-948.71857"
+       x="719.78015"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e52929;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       xml:space="preserve"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       inkscape:transform-center-x="-10.509843"
+       inkscape:transform-center-y="-20.945835"><tspan
+         y="-948.71857"
+         x="719.78015"
+         id="tspan3430"
+         sodipodi:role="line"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#e52929;fill-opacity:1">הכנעה</tspan></text>
+    <text
+       inkscape:transform-center-y="-20.945835"
+       inkscape:transform-center-x="-10.509843"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#576fd9;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="419.72504"
+       y="-995.94324"
+       id="text3432"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#576fd9;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan3434"
+         x="419.72504"
+         y="-995.94324">הכנעה</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3436"
+       y="-998.40668"
+       x="557.16174"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#576fd9;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       xml:space="preserve"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       inkscape:transform-center-x="-10.509843"
+       inkscape:transform-center-y="-20.945835"><tspan
+         y="-998.40668"
+         x="557.16174"
+         id="tspan3438"
+         sodipodi:role="line"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#576fd9;fill-opacity:1">הבדלה</tspan></text>
+    <text
+       inkscape:transform-center-y="-20.945835"
+       inkscape:transform-center-x="-10.509843"
+       transform="matrix(-0.01792076,0.99983941,-0.99983941,-0.01792076,0,0)"
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#576fd9;fill-opacity:1;stroke:none;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL"
+       x="718.83765"
+       y="-1001.3045"
+       id="text3440"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ezra SIL;-inkscape-font-specification:Ezra SIL;fill:#576fd9;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan3442"
+         x="718.83765"
+         y="-1001.3045">המתקה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="821.91449"
+       y="330.14978"
+       id="text3444"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3446"
+         x="821.91449"
+         y="330.14978">Selectionist</tspan><tspan
+         sodipodi:role="line"
+         x="821.91449"
+         y="345.14978"
+         id="tspan3476">Model</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 814.37408,16.017245 c 0,0 -8.20567,-1.69372 -11.72967,0 -3.22351,1.5493 -6.60524,4.80316 -6.70267,8.378334 -0.1309,4.803095 4.66956,8.674871 8.37834,11.729668 21.3195,17.560138 57.46116,13.353591 75.405,34.35117 6.77901,7.932688 7.29235,19.783989 8.37834,30.162003 0.46596,4.45285 -0.83783,13.40533 -0.83783,13.40533"
+       id="path3452"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 894.80609,102.31409 -7.5405,10.89183 -6.70267,-12.5675"
+       id="path3454"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3456"
+       y="362.01471"
+       x="971.90942"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4856d4;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="362.01471"
+         x="971.90942"
+         id="tspan3458"
+         sodipodi:role="line">Mashpia</tspan><tspan
+         y="377.01471"
+         x="971.90942"
+         sodipodi:role="line"
+         id="tspan3474">perspective</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d92626;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="935.83319"
+       y="326.76663"
+       id="text3460"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3462"
+         x="935.83319"
+         y="326.76663">Mikabel</tspan><tspan
+         sodipodi:role="line"
+         x="935.83319"
+         y="341.76663"
+         id="tspan3478">perspective</tspan></text>
+    <path
+       style="fill:none;stroke:#e11e1e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 930.83292,26.071245 c 0,0 -22.73409,7.712916 -26.81066,17.594503 -4.13597,10.02556 1.76536,22.181521 6.70266,31.837669 1.8901,3.696576 4.96763,6.848854 8.37834,9.216172 6.17757,4.287746 16.19701,2.547735 20.94583,8.378331 5.01639,6.159113 4.18917,23.45933 4.18917,23.45933"
+       id="path3464"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="caaaac" />
+    <path
+       style="fill:none;stroke:#5063dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 963.50843,62.098083 c -27.0358,3.732676 -31.24455,25.135002 -5.027,25.135002 6.83293,0.666534 25.70381,-3.919783 33.51333,4.189167 4.47261,4.6441 0.37315,12.106298 1.67567,19.270168"
+       id="path3466"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccac" />
+    <path
+       style="fill:none;stroke:#e11e1e;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 931.99509,409.93312 12.5675,13.40533 7.5405,-15.91883"
+       id="path3468"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#5063dc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 985.2921,101.47625 9.21616,13.40534 5.86484,-16.756671"
+       id="path3472"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)" />
+  </g>
+</svg>
